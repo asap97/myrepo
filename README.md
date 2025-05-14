@@ -7,6 +7,6 @@ Class notes
 
 Git works line by line, so every time you change a line Git notices it 
 
-Q: difference between commit and push? If you commit locally and push once, do you save all previous commits?
+-Q: difference between commit and push? If you commit locally and push once, do you save all previous commits?
 
-Q: 
+Idk what I just did but apparently created a new branch yeii
